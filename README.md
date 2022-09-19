@@ -25,10 +25,10 @@ Help Screen:
 ![Help Screen!](/pic/help-screen.png "Help Screen")  
 
 Difficulty Selection:  
-![Difficulty!](/Pic/difficulty-selection.png "Choose Difficulty")
+![Difficulty!](/pic/difficulty-selection.png "Choose Difficulty")
 
 Gameplay:  
-![Gameplay!](/Pic/gameplay.png "Gameplay")  
+![Gameplay!](/pic/gameplay.png "Gameplay")  
 
 ## **Credits**  
 This project would have not been possible without the help of my lecturers and coursemate. I would like to give special thanks to my teammate Fathi Hilmi as we both work on this project together.  
