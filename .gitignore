@@ -1,5 +1,2 @@
 #ignore all .txt files
 *.txt
-
-#ignore all files in pic folder
-pic
